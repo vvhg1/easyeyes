@@ -1,0 +1,31 @@
+{
+    "name": "theme-easy-eyes",
+    "displayName": "%displayName%",
+    "description": "%description%",
+    "categories": [
+        "Themes"
+    ],
+    "version": "1.0.2",
+    "publisher": "vvhg1",
+    "repository": "https://github.com/vvhg1/easyeyes.git",
+    "license": "MIT",
+    "engines": {
+        "vscode": "*"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "id": "Easy-Eyes",
+                "label": "%EasyEyesThemeLabel%",
+                "uiTheme": "vs-dark",
+                "path": "./themes/easy-eyes-color-theme.json"
+            },
+            {
+                "id": "Easy-Eyes-Night",
+                "label": "%EasyEyesNightThemeLabel%",
+                "uiTheme": "vs-dark",
+                "path": "./themes/easy-eyes-night-color-theme.json"
+            }
+        ]
+    }
+}
