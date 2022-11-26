@@ -5,8 +5,9 @@
     "categories": [
         "Themes"
     ],
-    "version": "1.0.2",
+    "version": "1.0.5",
     "publisher": "vvhg1",
+    "icon": "icon.png",
     "repository": "https://github.com/vvhg1/easyeyes.git",
     "license": "MIT",
     "engines": {
