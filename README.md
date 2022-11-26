@@ -2,6 +2,8 @@
 # Easy Eyes
 
 ![logo](https://github.com/vvhg1/easyeyes/blob/d0a060d0fca07c174a330de61321cb908566968a/images/logo.png)
+
+
 **Easy Eyes** is a theme for Visual Studio Code that has been created to reduce eye strain when coding for extended periods.
 The colors have been chosen to provide a good contrast between them and to be easy on the eyes. Most important information should be easy to spot at a glance while semantic coloring offers a good overview and distinguishability of the code.
 The theme is intended to be used with semantic highlighting enabled.
