@@ -7,11 +7,14 @@
 The colors have been chosen to provide a good contrast between them and to be easy on the eyes. Most important information should be easy to spot at a glance while semantic coloring offers a good overview and distinguishability of the code.
 The theme is intended to be used with semantic highlighting enabled.
 
-This theme comes in two versions: **Normal** and **Night**. The **Night** version is a darker version of the **Normal** one. The **Night** version is intended to be used in low light conditions to reduce eye strain even more.
+This theme comes in two versions: **Normal** and **Night**. The **Night** version is a darker version of the **Normal** one, intended to be used in low light conditions to reduce eye strain even more.
 
 
 ## Normal Mode
 ![screenshot](images/normal.png)
+### Editor
+![screenshot](images/editor.png)
+
 ## Night Mode
 ![screenshot2](images/night.png)
 
