@@ -51,7 +51,7 @@
 		"menubar.selectionForeground": "#ccc9c0",
 		"menubar.selectionBackground": "#fffae91a",
 		"menu.foreground": "#ccc9c0",
-		"menu.background": "#252526",
+		"menu.background": "#1e1e1e",
 		"menu.selectionForeground": "#fffae9",
 		"menu.selectionBackground": "#fdef9f1b",
 		"menu.selectionBorder": "#00000000",
@@ -72,7 +72,7 @@
 		"input.placeholderForeground": "#a6a6a6",
 		"textLink.foreground": "#74b5ff",
 		"editor.background": "#1e1e1e",
-		"editor.foreground": "#d4d4d4",
+		"editor.foreground": "#ccc9c0",
 		"editorLineNumber.foreground": "#a2905ec5",
 		"editorCursor.foreground": "#aeafad",
 		"editorCursor.background": "#000000",
@@ -168,14 +168,14 @@
 		"progressBar.background": "#7b7969",
 		"widget.shadow": "#0000005c",
 		"editorWidget.foreground": "#ccc9c0",
-		"editorWidget.background": "#252526",
+		"editorWidget.background": "#1e1e1e",
 		"editorWidget.resizeBorder": "#ffe96e18",
 		"pickerGroup.border": "#3f3f46",
 		"pickerGroup.foreground": "#ffe868dc",
 		"debugToolBar.background": "#333333",
 		"debugToolBar.border": "#ffe96e18",
 		"notifications.foreground": "#ccc9c0",
-		"notifications.background": "#252526",
+		"notifications.background": "#1e1e1e",
 		"notificationToast.border": "#ffe96e18",
 		"notificationsErrorIcon.foreground": "#f48771",
 		"notificationsWarningIcon.foreground": "#cca700",
@@ -203,15 +203,14 @@
 		"merge.incomingContentBackground": "#28384B",
 		"merge.commonHeaderBackground": "#383838",
 		"merge.commonContentBackground": "#282828",
-		"editorSuggestWidget.background": "#252526",
-		"editorSuggestWidget.border": "#454545",
-		"editorSuggestWidget.foreground": "#d4d4d4",
-		"editorSuggestWidget.highlightForeground": "#0097fb",
-		"editorSuggestWidget.selectedBackground": "#062f4a",
+		"editorSuggestWidget.background": "#1e1e1e",
+		"editorSuggestWidget.border": "#ffe96e18",
+		"editorSuggestWidget.foreground": "#ccc9c0",
+		"editorSuggestWidget.highlightForeground": "#009b95",
+		"editorSuggestWidget.selectedBackground": "#fdef9f1b",
 		"editorHoverWidget.foreground": "#ccc9c0",
-		"editorHoverWidget.background": "#252526",
-		"editorHoverWidget.border": "#454545",
-		// not sure if this is the right one
+		"editorHoverWidget.background": "#1e1e1e",
+		"editorHoverWidget.border": "#ffe96e36",
 		"peekView.border": "#cca30074",
 		"peekViewEditor.background": "#23221f",
 		"peekViewEditorGutter.background": "#23221f",
@@ -269,7 +268,7 @@
 				"source.groovy.embedded"
 			],
 			"settings": {
-				"foreground": "#D4D4D4"
+				"foreground": "#ccc9c0"
 			}
 		},
 		{
@@ -544,7 +543,7 @@
 				"meta.template.expression"
 			],
 			"settings": {
-				"foreground": "#D4D4D4"
+				"foreground": "#ccc9c0"
 			}
 		},
 		{
@@ -629,7 +628,7 @@
 				"storage.modifier.package.java"
 			],
 			"settings": {
-				"foreground": "#D4D4D4"
+				"foreground": "#ccc9c0"
 			}
 		},
 		{
