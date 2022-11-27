@@ -12,13 +12,22 @@ This theme comes in two versions: **Normal** and **Night**. The **Night** versio
 
 ## Normal Mode
 ![screenshot](images/normal.png)
-### Editor
-![screenshot](images/editor.png)
 
 ## Night Mode
 ![screenshot2](images/night.png)
+## Editor
+![screenshot](images/editor.png)
 
-
+## Suggested Editor Settings
+```
+    "editor.semanticHighlighting.enabled": true,
+    "editor.guides.bracketPairs": "active",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.renderLineHighlight": "line",
+    "editor.fontFamily": "Fira Code Light",
+    "editor.fontLigatures": "'cv02', 'cv04', 'ss01', 'ss02', 'ss03', 'ss05', 'zero'",
+```
+**FiraCode** can be downloaded from [https://github.com/tonsky/FiraCode](https://github.com/tonsky/FiraCode)
 
 ## How to install
 
