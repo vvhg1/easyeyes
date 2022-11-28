@@ -1,4 +1,3 @@
-<!-- this is  the readme for the vscode theme Easy Eyes -->
 # Easy Eyes
 
 
@@ -11,12 +10,12 @@ This theme comes in two versions: **Normal** and **Night**. The **Night** versio
 
 
 ## Normal Mode
-![screenshot](images/normal.png)
+![screenshot](https://raw.githubusercontent.com/vvhg1/easyeyes/main/images/normal.png)
 
 ## Night Mode
-![screenshot2](images/night.png)
+![screenshot2](https://raw.githubusercontent.com/vvhg1/easyeyes/main/images/night.png)
 ## Editor
-![screenshot](images/editor.png)
+![screenshot](https://raw.githubusercontent.com/vvhg1/easyeyes/main/images/editor.png)
 
 ## Suggested Editor Settings
 ```
