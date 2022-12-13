@@ -1,13 +1,18 @@
 # Easy Eyes
 
+The **Easy Eyes** Visual Studio Code theme is designed to reduce eye strain and fatigue when coding for extended periods of time. The colors and font formatting used in the theme are carefully chosen to make important information stand out and provide a clear, concise overview of the code, while also being easy on the eyes.
 
+**Easy Eyes** highlights important details and provides a clear, concise view of the code, helping you quickly understand its structure and organization. This can reduce the time and effort needed to read and work with the code, and lower the potential for eye strain and fatigue when coding for extended periods of time.
 
-**Easy Eyes** is a theme for Visual Studio Code that has been created to reduce eye strain when coding for extended periods.
-The colors have been chosen to provide a good contrast between them and to be easy on the eyes. Most important information should be easy to spot at a glance while semantic coloring offers a good overview and distinguishability of the code.
-The theme is intended to be used with semantic highlighting enabled.
+**Easy Eyes** comes in two versions: **Normal** and **Night**. The **Night** version is a toned down version of the **Normal** theme, intended to be used in low light conditions to further reduce eye strain.
+#
 
-This theme comes in two versions: **Normal** and **Night**. The **Night** version is a darker version of the **Normal** one, intended to be used in low light conditions to reduce eye strain even more.
-
+## Features
+- Carefully chosen colors that are easy on the eyes and reduce eye strain
+- Good contrast and readability to make important information easy to spot
+- Normal and Night versions for different lighting conditions
+- Recommended to be used with semantic highlighting enabled for the best experience
+#
 
 ## Normal Mode
 ![screenshot](https://raw.githubusercontent.com/vvhg1/easyeyes/main/images/normal.png)
@@ -17,6 +22,7 @@ This theme comes in two versions: **Normal** and **Night**. The **Night** versio
 ## Editor
 ![screenshot](https://raw.githubusercontent.com/vvhg1/easyeyes/main/images/editor.png)
 
+#
 ## Suggested Editor Settings
 ```
     "editor.semanticHighlighting.enabled": true,
@@ -28,6 +34,7 @@ This theme comes in two versions: **Normal** and **Night**. The **Night** versio
 ```
 **FiraCode** can be downloaded from [https://github.com/tonsky/FiraCode](https://github.com/tonsky/FiraCode)
 
+#
 ## How to install
 
 1. Open **Extensions** sidebar panel in Visual Studio Code. `View → Extensions`
@@ -35,6 +42,7 @@ This theme comes in two versions: **Normal** and **Night**. The **Night** versio
 1. Click **Install**
 1. Click **Reload**
 
+#
 ## How to use
 
 1. Open **Command Palette** with `Ctrl+Shift+P` or `Cmd+Shift+P`
