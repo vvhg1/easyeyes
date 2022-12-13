@@ -50,6 +50,8 @@ The **Easy Eyes** Visual Studio Code theme is designed to reduce eye strain and 
 1. Select **Easy Eyes** or **Easy Eyes Night**
 1. Hit `Enter`
 1. Enjoy!
+#
+
 
 ## License
 
