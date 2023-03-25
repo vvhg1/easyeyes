@@ -8,8 +8,6 @@
 
 For the best experience, it is recommended to use Easy Eyes with semantic highlighting enabled.
 
-#
-
 ## Normal Mode
 
 ![screenshot](https://raw.githubusercontent.com/vvhg1/easyeyes/main/images/normal.png)
